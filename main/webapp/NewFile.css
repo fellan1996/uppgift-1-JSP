@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+p{
+	background-color: #ff0000;
+	background-clip: text;
+	 -webkit-text-stroke-color: black;
+	 -webkit-text-stroke-width: calc(1em / 26);
+	color:#ff0000;
+	font-size: 7vmin;
+	font-weight: 600;
+	letter-spacing: calc(1em / 7);
+}
+body{
+	background-color:#bfc6ff;
+	margin: 50px;
+}
+div{
+	margin: 25px;
+}
